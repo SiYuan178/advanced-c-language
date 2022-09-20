@@ -1,4 +1,5 @@
-﻿  contect.c
+﻿D:\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Contect.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  contact.c
   test.c
   正在生成代码...
-  Contect.vcxproj -> D:\比特C语言\advanced-c-language\Contect\Debug\Contect.exe
+  Contect.vcxproj -> D:\比特C语言\advanced-c-language\Contect\Debug\Contact.exe

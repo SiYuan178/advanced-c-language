@@ -1,19 +1,19 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-#include"contect.h"
+#include"contact.h"
 void menu()
 {
 	printf("--------------------------------------------------------------------\n");
 	printf("-----------1.add                  2.delete--------------------------\n");
 	printf("-----------3.search               4.modify--------------------------\n");
 	printf("-----------5.sort                 6.list----------------------------\n");
-	printf("-----------0.exit                       ----------------------------\n");
+	printf("-----------7.empty                0.exit----------------------------\n");
 	printf("--------------------------------------------------------------------\n");
 }
 int main()
 {
 	int input=0;
-	struct Contect connect;
-	initContect(&connect);
+	struct Contact connect;
+	initContact(&connect);
 	do
 	{
 		menu();
@@ -22,24 +22,28 @@ int main()
 		switch (input)
 		{
 		case 1:
-			addContect(&connect);
+			addContact(&connect);
 			break;
 		case 2:
-			deleteContect(&connect);
+			deleteContact(&connect);
 			break;
 		case 3:
-			searchContect(&connect);
+			searchContact(&connect);
 			break;
 		case 4:
-			modifyContect(&connect);
+			modifyContact(&connect);
 			break;
 		case 5:
-			sortContect(&connect);
+			sortContact(&connect);
 			break;
 		case 6:
-			listContect(&connect);
+			listContact(&connect);
+			break;
+		case 7:
+			emptyContact(&connect);
 			break;
 		case 0:
+			printf("退出成功！\n");
 			break;
 		default:
 			printf("您的输入有误！");
