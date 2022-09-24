@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\比特C语言\advanced-c-language\Project1\Project1\源.cpp(9,11): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特C语言\advanced-c-language\Project1\Project1\源.cpp(14,8): warning C4018: “>=”: 有符号/无符号不匹配
+D:\比特C语言\advanced-c-language\Project1\Project1\源.cpp(20,21): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> D:\比特C语言\advanced-c-language\Project1\Debug\Project1.exe

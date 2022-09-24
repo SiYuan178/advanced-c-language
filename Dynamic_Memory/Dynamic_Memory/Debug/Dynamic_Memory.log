@@ -1,0 +1,4 @@
+﻿  test.c
+D:\比特C语言\advanced-c-language\Dynamic_Memory\Dynamic_Memory\test.c(25,23): warning C4013: “calloc”未定义；假设外部返回 int
+D:\比特C语言\advanced-c-language\Dynamic_Memory\Dynamic_Memory\test.c(34,6): warning C4013: “free”未定义；假设外部返回 int
+  Dynamic_Memory.vcxproj -> D:\比特C语言\advanced-c-language\Dynamic_Memory\Debug\Dynamic_Memory.exe

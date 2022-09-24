@@ -1,0 +1,10 @@
+﻿  test.c
+D:\比特C语言\advanced-c-language\Homework_9_21\Homework_9_21\test.c(12,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特C语言\advanced-c-language\Homework_9_21\Homework_9_21\test.c(33,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特C语言\advanced-c-language\Homework_9_21\Homework_9_21\test.c(63,11): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特C语言\advanced-c-language\Homework_9_21\Homework_9_21\test.c(70,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特C语言\advanced-c-language\Homework_9_21\Homework_9_21\test.c(75,8): warning C4018: “>=”: 有符号/无符号不匹配
+D:\比特C语言\advanced-c-language\Homework_9_21\Homework_9_21\test.c(88,11): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特C语言\advanced-c-language\Homework_9_21\Homework_9_21\test.c(93,8): warning C4018: “>=”: 有符号/无符号不匹配
+D:\比特C语言\advanced-c-language\Homework_9_21\Homework_9_21\test.c(99,21): warning C4018: “<”: 有符号/无符号不匹配
+  Homework_9_21.vcxproj -> D:\比特C语言\advanced-c-language\Homework_9_21\Debug\Homework_9_21.exe
