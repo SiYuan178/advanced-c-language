@@ -54,7 +54,7 @@ int main()
 			emptyContact(&connect);
 			break;
 		case quit:
-			destoryContact(connect);
+			destoryContact(&connect);
 			printf("ÍË³ö³É¹¦£¡\n");
 			break;
 		default:

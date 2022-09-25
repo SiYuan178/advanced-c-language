@@ -11,8 +11,10 @@ void initContact(struct Contact* connect)
 }
 void destoryContact(struct Contact* connect)
 {
-	free(connect);
-	connect = NULL;
+	free(connect->data);
+	connect->data = NULL;
+	connect->capacity = 0;
+	connect->size = 0;
 }
 int check_is_full( struct Contact* connect)
 {

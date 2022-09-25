@@ -33,3 +33,4 @@ void modifyContact(struct Contact* connect);
 void emptyContact(struct Contact* connet);
 void listContact(const struct Contact* connect);
 void sortContact(struct Contact* connect);
+void destoryContact(struct Contact* connect);
