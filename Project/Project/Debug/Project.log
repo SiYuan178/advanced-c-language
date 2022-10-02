@@ -1,0 +1,3 @@
+﻿  Calculator.cpp
+D:\比特C语言\advanced-c-language\Project\Project\Calculator.cpp(33): warning C4715: “Div”: 不是所有的控件路径都返回值
+  Project.vcxproj -> D:\比特C语言\advanced-c-language\Project\Debug\Project.exe
