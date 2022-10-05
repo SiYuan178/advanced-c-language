@@ -1,0 +1,12 @@
+﻿  game.c
+D:\比特C语言\advanced-c-language\Minesweeper\Minesweeper\game.c(53,39): warning C4028: 形参 2 与声明不同
+D:\比特C语言\advanced-c-language\Minesweeper\Minesweeper\game.c(54,1): warning C4029: 声明的形参表不同于定义
+  test.c
+D:\比特C语言\advanced-c-language\Minesweeper\Minesweeper\test.c(7,11): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\比特C语言\advanced-c-language\Minesweeper\Minesweeper\test.c(8,11): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\比特C语言\advanced-c-language\Minesweeper\Minesweeper\test.c(9,15): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\比特C语言\advanced-c-language\Minesweeper\Minesweeper\test.c(11,12): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\比特C语言\advanced-c-language\Minesweeper\Minesweeper\test.c(12,18): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\比特C语言\advanced-c-language\Minesweeper\Minesweeper\test.c(12,24): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+  正在生成代码...
+  Minesweeper.vcxproj -> D:\比特C语言\advanced-c-language\Minesweeper\Debug\Minesweeper.exe
